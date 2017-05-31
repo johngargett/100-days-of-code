@@ -1,7 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: May 31, 2017
+
+**Today's Progress**: Started FreeCodeCamp (FCC), went through the intro and am ready to start coding.
+
+**Thoughts:**: Nervous about the thought of something every day. I know thats how I'll learn.
+
+**Link to work:** Completed the FCC intro
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
