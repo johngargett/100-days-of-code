@@ -8,7 +8,7 @@
 
 **Link to work:** Completed the FCC intro
 
-**Tweet**:<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Started <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash">#100DaysOfCode</a> today. Following <a href="https://twitter.com/freeCodeCamp">@freeCodeCamp</a> curriculum.</p>&mdash; John Gargett (@jgargett) <a href="https://twitter.com/jgargett/status/870068048723619841">June 1, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+**Tweet**:<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Started <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash">#100DaysOfCode</a> today. Following <a href="https://twitter.com/freeCodeCamp">@freeCodeCamp</a> curriculum.</p>&mdash; John Gargett (@jgargett) <a href="https://twitter.com/jgargett/status/870068048723619841">June 1, 2017</a></blockquote>
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
