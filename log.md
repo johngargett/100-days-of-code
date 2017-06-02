@@ -18,7 +18,7 @@
 
 **Link to work:** https://www.freecodecamp.com/challenges/create-an-ordered-list
 
-**Tweet**:<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">True day 1 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash">#100DaysOfCode</a> today. Following <a href="https://twitter.com/freeCodeCamp">@freeCodeCamp</a> curriculum. I reached the point where you are working with ordered lists.</p>&mdash; John Gargett (@jgargett) <a href="https://twitter.com/jgargett/status/870436146173620224">June 2, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+**Tweet**:<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">True day 1 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash">#100DaysOfCode</a> today. Following <a href="https://twitter.com/freeCodeCamp">@freeCodeCamp</a> curriculum. I reached the point where you are working with ordered lists.</p>&mdash; John Gargett (@jgargett) <a href="https://twitter.com/jgargett/status/870436146173620224">June 2, 2017</a></blockquote>
 
 
 ### Day 2: June 2, 2017
