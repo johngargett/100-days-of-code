@@ -10,13 +10,18 @@
 
 **Tweet**:<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Started <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash">#100DaysOfCode</a> today. Following <a href="https://twitter.com/freeCodeCamp">@freeCodeCamp</a> curriculum.</p>&mdash; John Gargett (@jgargett) <a href="https://twitter.com/jgargett/status/870068048723619841">June 1, 2017</a></blockquote>
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 1: June 1, 2017
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Started the actual FCC. In my hour, I got to "Create an Ordered List"
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I have to watch for the niggly things like closing tags and semicolons at the end in stylesheets
 
-### Day 0: February 30, 2016 (Example 2)
+**Link to work:** https://www.freecodecamp.com/challenges/create-an-ordered-list
+
+**Tweet**:<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">True day 1 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash">#100DaysOfCode</a> today. Following <a href="https://twitter.com/freeCodeCamp">@freeCodeCamp</a> curriculum. I reached the point where you are working with ordered lists.</p>&mdash; John Gargett (@jgargett) <a href="https://twitter.com/jgargett/status/870436146173620224">June 2, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+### Day 2: June 2, 2017
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
