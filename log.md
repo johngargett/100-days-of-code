@@ -22,14 +22,14 @@
 
 
 ### Day 2: June 2, 2017
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked for more than an hour tonight. I'm now at "Override Styles in Subsequent CSS"
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: The last challenge, Prioritize One Style Over Another, gave me fits until I found a missing }. I'm starting to see already that doing this every day is  going to help. It sticks better in my mind and I can do things without looking back. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: https://www.freecodecamp.com/challenges/override-styles-in-subsequent-css
 
+**Tweet**:<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Day 2 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash">#100DaysOfCode</a> using <a href="https://twitter.com/freeCodeCamp">@freeCodeCamp</a>. Made good progress. One } gave me fits for almost 15 minutes but I found it, or didn&#39;t 🤪</p>&mdash; John Gargett (@jgargett) <a href="https://twitter.com/jgargett/status/870850277196394497">June 3, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Day 1: June 27, Monday
 
