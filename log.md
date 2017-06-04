@@ -31,12 +31,12 @@
 
 **Tweet**:<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Day 2 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash">#100DaysOfCode</a> using <a href="https://twitter.com/freeCodeCamp">@freeCodeCamp</a>. Made good progress. One } gave me fits for almost 15 minutes but I found it, or didn&#39;t 🤪</p>&mdash; John Gargett (@jgargett) <a href="https://twitter.com/jgargett/status/870850277196394497">June 3, 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Day 1: June 27, Monday
+### Day 3: June 3, 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Still working on @FreeCodeCamp. I'm at challenge "Add Font Awesome Icons to our Buttons"
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Again, the daily work is VERY helpful. The #100DaysOfCode seems to be just what I needed. Feeling much better about what I am learning. Making fewer mistakes.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work:** https://www.freecodecamp.com/challenges/add-font-awesome-icons-to-our-buttons
+
+**Tweet**:<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Day 3 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash">#100DaysOfCode</a>. It is really helping to do some work every day. I&#39;m still working on <a href="https://twitter.com/freeCodeCamp">@freeCodeCamp</a>. Made a lot fewer mistakes.</p>&mdash; John Gargett (@jgargett) <a href="https://twitter.com/jgargett/status/871163898157830145">June 4, 2017</a></blockquote> 
