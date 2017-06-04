@@ -40,3 +40,13 @@
 **Link(s) to work:** https://www.freecodecamp.com/challenges/add-font-awesome-icons-to-our-buttons
 
 **Tweet**:<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Day 3 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash">#100DaysOfCode</a>. It is really helping to do some work every day. I&#39;m still working on <a href="https://twitter.com/freeCodeCamp">@freeCodeCamp</a>. Made a lot fewer mistakes.</p>&mdash; John Gargett (@jgargett) <a href="https://twitter.com/jgargett/status/871163898157830145">June 4, 2017</a></blockquote> 
+
+### Day 4: June 4, 2017
+
+**Today's Progress:** Still working on @FreeCodeCamp. I'm at challenge "Learn how Script Tags and Document Ready Work" I feel as though I'm making good time and progress as well as understanding.
+
+**Thoughts:** Again, the daily work is VERY helpful. Got stuck on a few of the <div> closing tags but figured it out in time. 
+
+**Link(s) to work:** https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready-work
+
+**Tweet:** <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Day 4 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash">#100DaysOfCode</a>. It is really helping to do some work every day. I&#39;m still working on <a href="https://twitter.com/freeCodeCamp">@freeCodeCamp</a>. 4 days in a row.</p>&mdash; John Gargett (@jgargett) <a href="https://twitter.com/jgargett/status/871463862402510848">June 4, 2017</a></blockquote>
