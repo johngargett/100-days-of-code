@@ -50,3 +50,21 @@
 **Link(s) to work:** https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready-work
 
 **Tweet:** <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Day 4 of <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash">#100DaysOfCode</a>. It is really helping to do some work every day. I&#39;m still working on <a href="https://twitter.com/freeCodeCamp">@freeCodeCamp</a>. 4 days in a row.</p>&mdash; John Gargett (@jgargett) <a href="https://twitter.com/jgargett/status/871463862402510848">June 4, 2017</a></blockquote>
+
+### Day 5: June 5, 2017
+
+**Today's Progress:** Still working on @FreeCodeCamp. I'm further along. I think tomorrow I will have completed the challenges and be ready to start on the tribute page. 
+
+**Thoughts:** I'm working steadily on the FCC and making good time.  
+
+### Day 6: June 6, 2017
+
+**Today's Progress:** Finished with the first part of the @FreeCodeCamp. Watched the video and am ready to start the tribute tomorrow.
+
+**Thoughts:** Nearing the end of a section is exciting. I am looking forward to doing the tribute page. I'm going to use Thomas Alva Edison as my subject.
+
+### Day 7: June 7, 2017
+
+**Today's Progress:** Started work on the tribute. I spent 1 1/2 hours working on it and I have almost nothing to show. :(
+
+**Thoughts:** This is super frustrating. I worked for 90 minutes and have almost nothing to show for it. I hope tomorrow is better. I may have to go back to the bootstrap section and re-read it.
